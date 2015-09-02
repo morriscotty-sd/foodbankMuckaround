@@ -1,0 +1,112 @@
+[
+  {
+    "FIELD1":"Name",
+    "FIELD2":"Address line 1",
+    "FIELD3":"Address line 2",
+    "FIELD4":"Address line 3",
+    "FIELD5":"Postcode",
+    "FIELD6":"Opening times",
+    "FIELD7":"Telephone",
+    "FIELD8":"Email",
+    "FIELD9":"Website"
+  },
+  {
+    "FIELD1":"Glasgow SE foodbank",
+    "FIELD2":"173 Butterbiggins Road",
+    "FIELD3":"Govanhill",
+    "FIELD4":"",
+    "FIELD5":"G42 7AS",
+    "FIELD6":"Mon, Wed, Fri: 1pm - 2.30pm",
+    "FIELD7":"0141 423 2418",
+    "FIELD8":"foodbank@glasgowelim.org.uk",
+    "FIELD9":"http://glasgowse.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow SW foodbank",
+    "FIELD2":"Ibrox Parish Church",
+    "FIELD3":"Clifford Street",
+    "FIELD4":"",
+    "FIELD5":"G51 1QL",
+    "FIELD6":"Mon: 12noon - 2pm",
+    "FIELD7":"0795 077 1877",
+    "FIELD8":"info@glasgowsw.foodbank.org.uk",
+    "FIELD9":"http://glasgowsw.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow SW foodbank",
+    "FIELD2":"St Christopher's Priesthill and Nitshill Church",
+    "FIELD3":"Meikle Road",
+    "FIELD4":"Old Pollock",
+    "FIELD5":"G53 5JD",
+    "FIELD6":"Wed: 12noon - 2pm",
+    "FIELD7":"0795 077 1877",
+    "FIELD8":"info@glasgowsw.foodbank.org.uk",
+    "FIELD9":"http://glasgowsw.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow SW foodbank",
+    "FIELD2":"Govan Housing Association (basement)",
+    "FIELD3":"35 McKechnie Street",
+    "FIELD4":"",
+    "FIELD5":"G51 3AQ",
+    "FIELD6":"Thurs: 12noon - 2pm",
+    "FIELD7":"07950 771 877",
+    "FIELD8":"info@glasgowsw.foodbank.org.uk",
+    "FIELD9":"http://glasgowsw.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow SW foodbank",
+    "FIELD2":"Hillington Park Church",
+    "FIELD3":"Berryknowes Road",
+    "FIELD4":"Cardonald",
+    "FIELD5":"G52 2UD",
+    "FIELD6":"Fri: 10am - 1pm",
+    "FIELD7":"07950 771 877",
+    "FIELD8":"info@glasgowsw.foodbank.org.uk",
+    "FIELD9":"http://glasgowsw.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow NE foodbank",
+    "FIELD2":"Calton Parkhead Parish Church",
+    "FIELD3":"142 Helenvale Street",
+    "FIELD4":"Parkhead",
+    "FIELD5":"G31 4NA",
+    "FIELD6":"Mon, Wed, Fri: 2pm - 4pm",
+    "FIELD7":"07779 224 521",
+    "FIELD8":"barnet173@btinternet.com",
+    "FIELD9":"http://glasgowne.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Rutherglen and Cambuslang foodbank",
+    "FIELD2":"2 Kirkwood Street",
+    "FIELD3":"Rutherglen",
+    "FIELD4":"",
+    "FIELD5":"G73 2SL",
+    "FIELD6":"Mon, Thurs: 12.30 pm - 2.30pm",
+    "FIELD7":"07745 038 795",
+    "FIELD8":"info@rutherglencambuslang.foodbank.org.uk",
+    "FIELD9":"http://rutherglencambuslang.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow NW foodbank",
+    "FIELD2":"Blawarthill Parish Church",
+    "FIELD3":"Millbrix Avenue",
+    "FIELD4":"Scotstoun",
+    "FIELD5":"G14 0EP",
+    "FIELD6":"Tues, Fri: 12noon - 2pm",
+    "FIELD7":"07787 334 012",
+    "FIELD8":"info@glasgowNW.foodbank.org.uk",
+    "FIELD9":"http://glasgownw.foodbank.org.uk/"
+  },
+  {
+    "FIELD1":"Glasgow NW foodbank",
+    "FIELD2":"Broomhill Community Church",
+    "FIELD3":"1 Norby Road",
+    "FIELD4":"",
+    "FIELD5":"G11 7NB",
+    "FIELD6":"Sat: 10am - 12noon",
+    "FIELD7":"07787 334 012",
+    "FIELD8":"info@glasgowNW.foodbank.org.uk",
+    "FIELD9":"http://glasgownw.foodbank.org.uk/"
+  }
+]

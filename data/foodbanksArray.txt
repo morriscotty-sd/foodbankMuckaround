@@ -1,0 +1,14 @@
+{
+  "fields": ["Name", "Address line 1", "Address line 2", "Address line 3", "Postcode", "Opening times", "Telephone", "Email", "Website"],
+  "data": [
+  ["Glasgow SE foodbank","173 Butterbiggins Road","Govanhill","","G42 7AS","Mon, Wed, Fri: 1pm - 2.30pm","0141 423 2418","foodbank@glasgowelim.org.uk","http://glasgowse.foodbank.org.uk/"  ],
+  ["Glasgow SW foodbank","Ibrox Parish Church","Clifford Street","","G51 1QL","Mon: 12noon - 2pm","0795 077 1877","info@glasgowsw.foodbank.org.uk","http://glasgowsw.foodbank.org.uk/"  ],
+  ["Glasgow SW foodbank","St Christopher's Priesthill and Nitshill Church","Meikle Road","Old Pollock","G53 5JD","Wed: 12noon - 2pm","0795 077 1877","info@glasgowsw.foodbank.org.uk","http://glasgowsw.foodbank.org.uk/"  ],
+  ["Glasgow SW foodbank","Govan Housing Association (basement)","35 McKechnie Street","","G51 3AQ","Thurs: 12noon - 2pm","07950 771 877","info@glasgowsw.foodbank.org.uk","http://glasgowsw.foodbank.org.uk/"  ],
+  ["Glasgow SW foodbank","Hillington Park Church","Berryknowes Road","Cardonald","G52 2UD","Fri: 10am - 1pm","07950 771 877","info@glasgowsw.foodbank.org.uk","http://glasgowsw.foodbank.org.uk/"  ],
+  ["Glasgow NE foodbank","Calton Parkhead Parish Church","142 Helenvale Street","Parkhead","G31 4NA","Mon, Wed, Fri: 2pm - 4pm","07779 224 521","barnet173@btinternet.com","http://glasgowne.foodbank.org.uk/"  ],
+  ["Rutherglen and Cambuslang foodbank","2 Kirkwood Street","Rutherglen","","G73 2SL","Mon, Thurs: 12.30 pm - 2.30pm","07745 038 795","info@rutherglencambuslang.foodbank.org.uk","http://rutherglencambuslang.foodbank.org.uk/"  ],
+  ["Glasgow NW foodbank","Blawarthill Parish Church","Millbrix Avenue","Scotstoun","G14 0EP","Tues, Fri: 12noon - 2pm","07787 334 012","info@glasgowNW.foodbank.org.uk","http://glasgownw.foodbank.org.uk/"  ],
+  ["Glasgow NW foodbank","Broomhill Community Church","1 Norby Road","","G11 7NB","Sat: 10am - 12noon","07787 334 012","info@glasgowNW.foodbank.org.uk","http://glasgownw.foodbank.org.uk/"  ]
+]
+}

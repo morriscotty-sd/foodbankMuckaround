@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Find a Foodbank</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+		<link rel="shortcut icon" href="images/favicon.ico">
+	</head>
+	<body>
+<!-- begin template -->
+<div class="navbar navbar-custom navbar-fixed-top">
+ <div class="navbar-header"><a class="navbar-brand" href="index.html">FAFB - Glasgow</a>
+      <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+       
+        
+        <li>&nbsp;</li>
+      </ul>
+     
+    </div>
+</div>
+
+<div id="map-canvas"></div>
+<div class="container-fluid" id="main">
+  <div class="row">
+  	<div class="col-xs-8" id="left">
+    
+      <h2>Trussell Trust Foodbank Locations</h2>
+	  <h5><i>This information has been taken from <a href="https://data.glasgow.gov.uk/dataset/foodbank-locations">Glasgow Data</a>.</i></h5>
+      
+      <!-- item list -->
+      <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow SE Foodbank</a></div>
+      </div>
+      <p>Address: 173 Butterbiggins Road, Govanhill.</p>
+	    <p>Postcode: G42 7AS</p>
+		  <p>Phone No: 0141 423 2418</p>
+      
+      <hr>
+      
+      <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow SW Foodbank 1</a></div>
+      </div>
+      <p>Address: Ibrox Parish Church, Clifford Street</p>
+	    <p>Postcode: G51 1QL</p>
+		  <p>Phone No: 07950771877</p>
+      
+      <hr>
+      
+      <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow SW Foodbank 2</a></div>
+      </div>
+     <p>Address: St Christopher's Priesthill and Nitshill Church, Meikle Road</p>
+	    <p>Postcode: G53 5JD</p>
+		  <p>Phone No: 07950771877</p>
+      
+      <hr>
+      
+      <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow SW Foodbank 3</a></div>
+      </div>
+<p>Address: Govan Housing Association (basement), 35 McKechnie Street</p>
+	    <p>Postcode: G51 3AQ</p>
+		  <p>Phone No: 07950771877</p>
+      
+      
+   <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow SW Foodbank 4</a></div>
+      </div>
+      <p>Address: Hillington Park Church, Berryknowes Road</p>
+	    <p>Postcode: G52 2UD</p>
+		  <p>Phone No: 07950771877</p>
+      
+      <hr>
+	  
+	     <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow NE Foodbank</a></div>
+      </div>
+      <p>Address: Calton Parkhead Parish Church, 142 Helenvale Street</p>
+	    <p>Postcode: G31 4NA</p>
+		  <p>Phone No: 07779224521</p>
+      
+      <hr>
+	  
+	     <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Rutherglen and Cambuslang Foodbank</a></div>
+      </div>
+      <p>Address: 2 Kirkwood Street, Rutherglen</p>
+	    <p>Postcode: G73 2SL</p>
+		  <p>Phone No: 07745038795</p>
+      
+      <hr>
+	  
+	     <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow NW Foodbank 1</a></div>
+      </div>
+      <p>Address: Blawarthill Parish Church, Millbrix Avenue</p>
+	    <p>Postcode: G14 OEP</p>
+		  <p>Phone No: 07787334012</p>
+      
+      <hr>
+	  
+	     <div class="panel panel-default">
+        <div class="panel-heading"><a href="">Glasgow NW Foodbank 2</a></div>
+      </div>
+      <p>Address: Broomhill Community Church, 1 Norby Road</p>
+	    <p>Postcode: G11 7NB</p>
+		  <p>Phone No: 07787334012</p>
+      
+      <hr>
+	  
+    </div>
+    <div class="col-xs-4"><!--map-canvas will be postioned here--></div>
+    
+  </div>
+</div>
+<!-- end template -->
+
+	<!-- script references -->
+		<script src="js/jquery.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script  src="js/jquery.csv-0.71.min.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js"></script>
+		<script src="js/markerwithlabel_packed.js"></script>
+		<script src="js/scripts.js"></script>
+		<script src="js/json.js"></script>
+		  
+		<footer>
+			<small>© Copyright 2015, Scott Morrison</small>
+		</footer>
+	</body>
+</html>

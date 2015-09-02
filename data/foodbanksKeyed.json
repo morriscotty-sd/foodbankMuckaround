@@ -1,0 +1,92 @@
+{
+  "Glasgow SE foodbank": {
+    "Address line 1":"173 Butterbiggins Road",
+    "Address line 2":"Govanhill",
+    "Address line 3":"",
+    "Postcode":"G42 7AS",
+    "Opening times":"Mon, Wed, Fri: 1pm - 2.30pm",
+    "Telephone":"0141 423 2418",
+    "Email":"foodbank@glasgowelim.org.uk",
+    "Website":"http://glasgowse.foodbank.org.uk/"
+  },
+  "Glasgow SW foodbank": {
+    "Address line 1":"Ibrox Parish Church",
+    "Address line 2":"Clifford Street",
+    "Address line 3":"",
+    "Postcode":"G51 1QL",
+    "Opening times":"Mon: 12noon - 2pm",
+    "Telephone":"0795 077 1877",
+    "Email":"info@glasgowsw.foodbank.org.uk",
+    "Website":"http://glasgowsw.foodbank.org.uk/"
+  },
+  "Glasgow SW foodbank": {
+    "Address line 1":"St Christopher's Priesthill and Nitshill Church",
+    "Address line 2":"Meikle Road",
+    "Address line 3":"Old Pollock",
+    "Postcode":"G53 5JD",
+    "Opening times":"Wed: 12noon - 2pm",
+    "Telephone":"0795 077 1877",
+    "Email":"info@glasgowsw.foodbank.org.uk",
+    "Website":"http://glasgowsw.foodbank.org.uk/"
+  },
+  "Glasgow SW foodbank": {
+    "Address line 1":"Govan Housing Association (basement)",
+    "Address line 2":"35 McKechnie Street",
+    "Address line 3":"",
+    "Postcode":"G51 3AQ",
+    "Opening times":"Thurs: 12noon - 2pm",
+    "Telephone":"07950 771 877",
+    "Email":"info@glasgowsw.foodbank.org.uk",
+    "Website":"http://glasgowsw.foodbank.org.uk/"
+  },
+  "Glasgow SW foodbank": {
+    "Address line 1":"Hillington Park Church",
+    "Address line 2":"Berryknowes Road",
+    "Address line 3":"Cardonald",
+    "Postcode":"G52 2UD",
+    "Opening times":"Fri: 10am - 1pm",
+    "Telephone":"07950 771 877",
+    "Email":"info@glasgowsw.foodbank.org.uk",
+    "Website":"http://glasgowsw.foodbank.org.uk/"
+  },
+  "Glasgow NE foodbank": {
+    "Address line 1":"Calton Parkhead Parish Church",
+    "Address line 2":"142 Helenvale Street",
+    "Address line 3":"Parkhead",
+    "Postcode":"G31 4NA",
+    "Opening times":"Mon, Wed, Fri: 2pm - 4pm",
+    "Telephone":"07779 224 521",
+    "Email":"barnet173@btinternet.com",
+    "Website":"http://glasgowne.foodbank.org.uk/"
+  },
+  "Rutherglen and Cambuslang foodbank": {
+    "Address line 1":"2 Kirkwood Street",
+    "Address line 2":"Rutherglen",
+    "Address line 3":"",
+    "Postcode":"G73 2SL",
+    "Opening times":"Mon, Thurs: 12.30 pm - 2.30pm",
+    "Telephone":"07745 038 795",
+    "Email":"info@rutherglencambuslang.foodbank.org.uk",
+    "Website":"http://rutherglencambuslang.foodbank.org.uk/"
+  },
+  "Glasgow NW foodbank": {
+    "Address line 1":"Blawarthill Parish Church",
+    "Address line 2":"Millbrix Avenue",
+    "Address line 3":"Scotstoun",
+    "Postcode":"G14 0EP",
+    "Opening times":"Tues, Fri: 12noon - 2pm",
+    "Telephone":"07787 334 012",
+    "Email":"info@glasgowNW.foodbank.org.uk",
+    "Website":"http://glasgownw.foodbank.org.uk/"
+  },
+  "Glasgow NW foodbank": {
+    "Address line 1":"Broomhill Community Church",
+    "Address line 2":"1 Norby Road",
+    "Address line 3":"",
+    "Postcode":"G11 7NB",
+    "Opening times":"Sat: 10am - 12noon",
+    "Telephone":"07787 334 012",
+    "Email":"info@glasgowNW.foodbank.org.uk",
+    "Website":"http://glasgownw.foodbank.org.uk/"
+  }
+}
